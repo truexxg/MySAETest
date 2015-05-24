@@ -1,0 +1,2 @@
+# MySAETest
+采用新浪SAE和Python和Web开发框架进行的开发的基础学习与测试代码
